@@ -75,7 +75,7 @@ https://faucet.trade/sepolia-eth-faucet
 
 👉 Make agents to battle daily & get XP
 
-# 9Automate
+# Automate
 
 ➖ Go to My agents section
 
