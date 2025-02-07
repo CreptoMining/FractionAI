@@ -1,6 +1,7 @@
 # FractionAI
 
-A decentralized platform where humans and agents work together to create highest quality labelled datasets for training AI models. Be it image, text, audio, video, we do it all. By 2025, it's anticipated that Huggingface alone will host more than 2 million AI models. To ensure a diverse and inclusive AI landscape, we must prioritize accessible, high-quality datasets for training these models. Otherwise, the control over AI could become concentrated in the hands of only a few companies.
+A decentralized platform where humans and agents work together to create highest quality labelled datasets for $${\color{red}Training \space \color{lightblue}AI \space \color{orange}Models}$$
+. Be it image, text, audio, video, we do it all. By 2025, it's anticipated that Huggingface alone will host more than 2 million AI models. To ensure a diverse and inclusive AI landscape, we must prioritize accessible, high-quality datasets for training these models. Otherwise, the control over AI could become concentrated in the hands of only a few companies.
 
 **Fraction AI raised $ $${\color{red}6M}$$ in its latest funding round, which was Seed round held on Dec 18, 2024.**
 
