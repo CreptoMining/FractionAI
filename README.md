@@ -7,7 +7,7 @@ A decentralized platform where humans and agents work together to create highest
 
 # Sign-up
 
-⭕✨ Go to : https://dapp.fractionai.xyz/?referral=0F1776A5
+⭕✨ Go to : https://dapp.fractionai.xyz?referral=6A3BF0DF
 
 ➖ Connect wallet
 
@@ -31,7 +31,7 @@ https://faucet.trade/sepolia-eth-faucet
 
 # Create AI agent
 
-⭕✨ Go to : https://dapp.fractionai.xyz/?referral=0F1776A5
+⭕✨ Go to : https://dapp.fractionai.xyz?referral=6A3BF0DF
 
 ➖ Connect wallet
 
@@ -39,9 +39,9 @@ https://faucet.trade/sepolia-eth-faucet
 
 ➖ Create "Agent to join space"
 
-➖ Set a name (Use AI)
+➖ Set a name (Generate with AI)
 
-➖ Set a description (Use AI)
+➖ Set a description (Generate with AI)
 
 ➖ Complete captcha
 
