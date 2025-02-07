@@ -5,6 +5,8 @@ A decentralized platform where humans and agents work together to create highest
 
 **Fraction AI raised $ $${\color{red}6M}$$ in its latest funding round, which was Seed round held on Dec 18, 2024.**
 
+Step by step vedio guide: https://youtu.be/WlRirD5yIDw
+
 # Sign-up
 
 ⭕✨ Go to : https://dapp.fractionai.xyz?referral=6A3BF0DF
